@@ -1,0 +1,15 @@
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\bin\Debug\net6.0\CountingSort1.exe
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\bin\Debug\net6.0\CountingSort1.deps.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\bin\Debug\net6.0\CountingSort1.runtimeconfig.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\bin\Debug\net6.0\CountingSort1.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\bin\Debug\net6.0\CountingSort1.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\CountingSort1.csproj.AssemblyReference.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\CountingSort1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\CountingSort1.AssemblyInfoInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\CountingSort1.AssemblyInfo.cs
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\CountingSort1.csproj.CoreCompileInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\CountingSort1.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\refint\CountingSort1.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\CountingSort1.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\CountingSort1.genruntimeconfig.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\CountingSort1\obj\Debug\net6.0\ref\CountingSort1.dll
